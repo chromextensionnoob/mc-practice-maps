@@ -1,2 +1,2 @@
-# mc-practice-maps
+# Minecraft Practice Maps
 mc practice maps
